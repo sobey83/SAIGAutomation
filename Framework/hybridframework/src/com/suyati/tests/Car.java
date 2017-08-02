@@ -24,10 +24,7 @@ static String name="sobey";
 	{
 		System.out.println("move fasty with  :"+speed);
 		System.out.println("Sobey testing");
-		System.out.println("Sobey testing");
-		System.out.println("Sobey testing");
-		System.out.println("Sobey testing");
-		System.out.println("Sobey testing11111");
+		System.out.println("dsdghsdhgsgdg");
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
