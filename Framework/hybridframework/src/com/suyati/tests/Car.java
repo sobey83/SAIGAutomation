@@ -26,6 +26,8 @@ static String name="sobey";
 		System.out.println("Sobey testing");
 		System.out.println("Sobey testing");
 		System.out.println("Sobey testing");
+		System.out.println("Sobey testing");
+		System.out.println("Sobey testing");
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
